@@ -1,7 +1,8 @@
 CMPINF-0010-Final-Project
 
 Team Name- Moshood's Group
-
+ 
+Canvas Group 69
 Team Members 
 Moshood Adebule - mia88@pitt.edu
 Mercy Abodurin - mea141@pitt.edu
