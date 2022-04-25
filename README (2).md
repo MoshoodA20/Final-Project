@@ -9,8 +9,8 @@ Mercy Abodurin - mea141@pitt.edu
 
 Data Sets Used
 
-https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh - 
-https://data.wprdc.org/dataset/arrest-data - 
-https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses - 
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh - All the neighborhoods that suffered fire incidents
+https://data.wprdc.org/dataset/arrest-data - police arrests per neighborhood in pittsburgh
+https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses - accidental overdoses in neighborhoods in pittsburgh
 
 After running our code based on our data we found that regent square is the best and safet neighborhood to live in and raise a child.
