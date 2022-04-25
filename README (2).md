@@ -11,3 +11,5 @@ Data Sets Used
 https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh 
 https://data.wprdc.org/dataset/arrest-data 
 https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
+
+After running our code based on our data we found that regent square is the best and safet neiborhood to live in and raise a child.
